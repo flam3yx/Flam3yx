@@ -5,7 +5,7 @@
   <h3 align="center">📒 I am a student at Vallauri Fossano</h3>
 </p>
 
-<hr>
+---
 
 <h3 align="left"><img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/> Languages and Tools:</h3>
 
@@ -15,7 +15,7 @@
   <img height = "150px" style="" src = "https://github-readme-streak-stats.herokuapp.com?user=Flam3yx&theme=gotham&hide_border=true&include_all_commits=true&line_height=27">
 </p>
 
-<hr>
+---
 
 <p align="center">
   <a href="mailto:simone.lisa787@gmail.com" target="_blank" rel="noopener noreferrer">
