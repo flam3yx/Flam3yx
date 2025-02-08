@@ -37,4 +37,4 @@
 
 <h2 align="center"> Thanks for visiting my profile. </h2>
 
-![](https://komarev.com/ghpvc/?username=Flam3yx&abbreviated=true)
+<!-- ![](https://komarev.com/ghpvc/?username=Flam3yx&abbreviated=true) -->
