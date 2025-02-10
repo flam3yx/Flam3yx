@@ -24,7 +24,8 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" alt="notion" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discord js/discordjs-original.svg" alt="discordjs" width="40" height="40"/>
+
+
 </p>
 
 <p align="center">
@@ -34,20 +35,7 @@
 ---
 
 <p align="center">
-  <a href="mailto:simone.lisa787@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" />
-  </a>
-  &nbsp;&nbsp;
-  
-  <a href="https://t.me/Liz7mone" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" />
-  </a>
-  &nbsp;&nbsp;
-  
-  <a href="[https://discord.com/channels/@me/1310342818538983495](https://discord.gg/cChGpq8qvA)" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/3d-fluency/94/discord-logo.png"  width="50" />
-  </a>
-  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="instagram" width="40" height="40"/>
   
 </p>
 
