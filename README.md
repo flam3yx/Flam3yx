@@ -22,9 +22,6 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/>
  <br>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/word/word-original.svg" alt="csharp" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-</p>
 
 <p align="center">
   <img height = "150px" style="" src = "https://github-readme-streak-stats.herokuapp.com?user=Flam3yx&theme=gotham&hide_border=true&include_all_commits=true&line_height=27">
