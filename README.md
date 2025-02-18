@@ -56,6 +56,6 @@
 
 ###
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Flam3yx.Flam3yx&left_color=black&right_color=gold&left_text=Profile%20view"  />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Flam3yx.Flam3yx&left_color=black&right_color=gold&left_text=Profile%20view" />
 
 <h2 align="center"> Thanks for visiting my profile. </h2>
