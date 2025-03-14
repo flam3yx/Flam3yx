@@ -13,7 +13,3 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Flam3yx.Flam3yx&left_color=black&right_color=gold&left_text=Profile%20view" />
-
-<h2 align="center"> Thanks for visiting my profile. </h2>
