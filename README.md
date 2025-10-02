@@ -1,15 +1,20 @@
-<h1 align="center">Hi there 👋, I'm Flam3yx</h1>
+## 💻 PC Specifications
 
-<h2>My skills:</h2>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-</p>
-
-<h2>Languages I'm currently learning:</h2>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</p>
+| Component        | Model                                                                |
+|------------------|----------------------------------------------------------------------|
+| **CPU**          | AMD Ryzen 5 7600X                                                    |
+| **CPU Cooler**   | Noctua NH-U12S Chromax Black                                         |
+| **GPU**          | ASUS Dual GeForce RTX 4060 OC Edition                                |
+| **Motherboard**  | ASUS TUF Gaming B650-E WiFi                                          |
+| **RAM**          | Corsair Vengeance 32GB (2x16GB) DDR5 6000MHz                         |
+| **Storage (SSD)**| Crucial T500 1TB NVMe M.2 Gen4                                       |
+| **Storage (HDD)**| Seagate Barracuda 2TB 7200RPM (for extra storage)                    |
+| **PSU**          | Corsair RM650e 650W 80+ Gold Fully Modular                           |
+| **Case**         | Corsair Carbide Series 175R RGB                                      |
+| **Operating System** | Windows 11 Pro 64-bit                                            |
+| **Mouse**        | Razer DeathAdder V3 Pro                                              |
+| **Keyboard**     | ATTACK SHARK X68 HE (Hot-swappable Mechanical Keyboard)              |
+| **Headset**      | Logitech G535 Wireless Gaming Headset                                |
+| **Webcam**       | Coming Soon                                                          |
+| **Monitor 1**    | Philips Momentum 24" – 1080p, 165Hz, 1ms, IPS                        |
+| **Monitor 2**    | LG 43" 4K UHD – 120Hz, IPS                                           |
