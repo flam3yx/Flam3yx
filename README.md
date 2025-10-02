@@ -1,3 +1,4 @@
+<!--
 ## 💻 PC Specifications
 
 | Component        | Model                                                                |
@@ -18,3 +19,4 @@
 | **Webcam**       | Coming Soon                                                          |
 | **Monitor 1**    | Philips Momentum 24" – 1080p, 165Hz, 1ms, IPS                        |
 | **Monitor 2**    | LG 43" 4K UHD – 120Hz, IPS                                           |
+-->
