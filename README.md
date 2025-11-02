@@ -92,12 +92,14 @@ Currently diving deep into both **frontend development** and **Kotlin** for Andr
 ---
 -->
 
+<!--
 ## 🌐 Connect With Me
 <p align="left">
   <a href="https://github.com/flam3yx"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" /></a>
 </p>
+-->
 
 ---
 
