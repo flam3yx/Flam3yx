@@ -5,7 +5,6 @@
 ## 👾 About Me
 Hey there! I'm **Flam3yx**, a passionate developer from Italy.  
 I love exploring new technologies, breaking limits, and creating things that look cool *and* work flawlessly.  
-Currently diving deep into both **frontend development** and **Kotlin** for Android.
 
 ---
 
@@ -100,7 +99,5 @@ Currently diving deep into both **frontend development** and **Kotlin** for Andr
   <a href="#"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" /></a>
 </p>
 -->
-
----
 
 ✨ *“Code. Create. Repeat.”*
