@@ -69,7 +69,7 @@ I love exploring new technologies, breaking limits, and creating things that loo
 ---
 ## 🧑‍💻 Currently Coding In
 <p align="center">
-  <img src="https://img.shields.io/badge/Editor-VS%20Code-blue?logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-blue?logo=code&logoColor=white" />
   <img src="https://img.shields.io/badge/Editor-Android%20Studio-brightgreen?logo=androidstudio&logoColor=white" />
 </p>
 
@@ -82,6 +82,7 @@ I love exploring new technologies, breaking limits, and creating things that loo
 </p>
 
 ---
+-->
 
 ## 🔢 Profile Visitors
 <p align="center">
@@ -89,7 +90,6 @@ I love exploring new technologies, breaking limits, and creating things that loo
 </p>
 
 ---
--->
 
 <!--
 ## 🌐 Connect With Me
