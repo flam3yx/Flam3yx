@@ -82,14 +82,13 @@ I love exploring new technologies, breaking limits, and creating things that loo
 </p>
 
 ---
--->
 
 ## 🔢 Profile Visitors
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=flam3yx&style=for-the-badge&color=ff0055" alt="Profile Views" />
 </p>
 
----
+-->
 
 <!--
 ## 🌐 Connect With Me
