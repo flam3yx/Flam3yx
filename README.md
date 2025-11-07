@@ -6,23 +6,21 @@
 Hey there! I'm **Flam3yx**, a passionate developer from Italy.  
 I love exploring new technologies, breaking limits, and creating things that look cool *and* work flawlessly.  
 
----
-
 ## 💻 Tech Stack
 
 ### 🚀 Currently Using
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,git,cpp," />
 </p>
 
 ### 🧠 Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=javascript,kotlin,cpp" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,python" />
 </p>
 
 ### 🧩 Next on My List
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,react" />
+  <img src="https://skillicons.dev/icons?i=react,next,mongodb" />
 </p>
 
 ---
@@ -36,9 +34,7 @@ I love exploring new technologies, breaking limits, and creating things that loo
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flam3yx&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=flam3yx&theme=radical" alt="GitHub Streak" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=flam3yx&theme=radical)](https://git.io/streak-stats)
 
 ---
 
@@ -59,14 +55,7 @@ I love exploring new technologies, breaking limits, and creating things that loo
 ---
 
 <!--
-## 🎧 Currently Listening To
-<p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USERNAME&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USERNAME&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
-  </a>
-</p>
 
----
 ## 🧑‍💻 Currently Coding In
 <p align="center">
   <img src="https://img.shields.io/badge/Editor-VS%20Code-blue?logo=code&logoColor=white" />
@@ -74,21 +63,6 @@ I love exploring new technologies, breaking limits, and creating things that loo
 </p>
 
 ---
-
-## 🎮 Now Playing
-<p align="center">
-  <img src="https://img.shields.io/badge/Platform-Steam-171a21?logo=steam&logoColor=white" />
-  <img src="https://img.shields.io/badge/Platform-Epic%20Games-313131?logo=epicgames&logoColor=white" />
-</p>
-
----
-
-## 🔢 Profile Visitors
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=flam3yx&style=for-the-badge&color=ff0055" alt="Profile Views" />
-</p>
-
--->
 
 <!--
 ## 🌐 Connect With Me
