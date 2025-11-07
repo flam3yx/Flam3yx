@@ -23,20 +23,11 @@ I love exploring new technologies, breaking limits, and creating things that loo
   <img src="https://skillicons.dev/icons?i=react,next,mongodb" />
 </p>
 
----
-
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=flam3yx&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flam3yx&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=flam3yx&theme=radical)](https://git.io/streak-stats)
-
----
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=flam3yx&theme=default&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200" alt="GitHub Streak"/>
+</a>
 
 ## 🖥️ My Setup
 | Component | Model |
@@ -51,8 +42,6 @@ I love exploring new technologies, breaking limits, and creating things that loo
 | **PSU** | Corsair RM650e 650W 80+ Gold Fully Modular |
 | **Case** | Corsair Carbide Series 175R RGB |
 | **Operating System** | Windows/Linux |
-
----
 
 <!--
 
