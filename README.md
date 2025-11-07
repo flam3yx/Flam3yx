@@ -3,7 +3,7 @@
 </h1>
 
 ## 👾 About Me
-Hey there! I'm **Flam3yx**, a passionate developer from Italy.  
+Hey there! I'm **flam3yx**, a passionate developer from Italy.  
 I love exploring new technologies, breaking limits, and creating things that look cool *and* work flawlessly.  
 
 ## 💻 Tech Stack
@@ -26,7 +26,7 @@ I love exploring new technologies, breaking limits, and creating things that loo
 ## 📊 GitHub Stats
 
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=flam3yx&theme=default&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=flam3yx&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200" alt="GitHub Streak"/>
 </a>
 
 ## 🖥️ My Setup
