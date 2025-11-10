@@ -10,17 +10,17 @@ I love exploring new technologies, breaking limits, and creating things that loo
 
 ### 🚀 Currently Using
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,git,cpp," />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,git,cpp,clion,cmake,discordjs,github,gmail,mint,nodejs,npm,notion,obsidian" />
 </p>
 
 ### 🧠 Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=kotlin,java,python" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,python,idea,bash,linux" />
 </p>
 
 ### 🧩 Next on My List
 <p>
-  <img src="https://skillicons.dev/icons?i=react,next,mongodb" />
+  <img src="https://skillicons.dev/icons?i=react,next,kali,mongodb,php,tailwind,gradle,firebase,ts" />
 </p>
 
 ## 📊 GitHub Stats
